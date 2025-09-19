@@ -25,6 +25,14 @@ bundle install
 
 ## Usage
 
+### Test examples
+
+To run the test examples, execute
+
+```bash
+ruby lib/acme_widgets.rb
+```
+
 ### Basic Example
 
 ```ruby
